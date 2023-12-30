@@ -8,6 +8,7 @@ from termcolor import colored
 kume= string.ascii_uppercase + string.digits
 
 init()
+print(colored("EN BUYUK ULKE TURKİİYEDİR TURKEY İS THE BEST COUNTRY","red"))
 print(colored("FROM THE RİVER TO THE SEA PALESTİNE WİLL BE FREE","red"))
 print(colored("CODED BY OMOVSKY","light_green"))
 print(colored("python gunlukleri bir numaradir !","yellow"))
